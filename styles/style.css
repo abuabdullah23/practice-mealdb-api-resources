@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@600&family=Poppins:wght@400;600;700&family=Work+Sans&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif !important;}
+
+
+.banner-img-1{
+    background-image: url("..//images/banner_1.png");
+    height: 100vh;
+    border-radius: 10px;
+}
